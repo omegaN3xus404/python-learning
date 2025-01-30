@@ -1,0 +1,4 @@
+name:Mansih   income:200000
+expenses_name: Rent   expenses_amount: 10000
+expenses_name: school   expenses_amount: 20000
+
